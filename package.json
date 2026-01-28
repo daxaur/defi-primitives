@@ -1,0 +1,23 @@
+{
+  "name": "defi-primitives",
+  "version": "0.1.0",
+  "description": "lightweight utilities for defi development",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "defi",
+    "ethereum",
+    "utilities",
+    "web3"
+  ],
+  "author": "dax",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daxaur/defi-primitives"
+  }
+}
